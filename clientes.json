@@ -1,0 +1,122 @@
+[
+    {
+      "image":"https://image.freepik.com/free-photo/mand-holding-cup_1258-340.jpg",
+      "name":"Carlos",
+      "phone":"0992664501",
+      "email":"practica1@hotmail.com"
+    } ,
+    {
+      "image":"https://image.freepik.com/free-photo/surprised-happy-bearded-man-shirt-pointing-away_171337-5021.jpg",
+      "name":"santiago",
+      "phone":"0992664502",
+      "email":"practica2@hotmail.com"
+    } ,
+    {
+      "image":"https://image.freepik.com/free-photo/positive-male-customer-presenting-new-product_74855-3636.jpg",
+      "name":"Eduardo",
+      "phone":"0992664503",
+      "email":"practica3@hotmail.com"
+    },
+    {
+      "image":"",
+      "name":"Paul",
+      "phone":"0992664504",
+      "email":"practica4@hotmail.com"
+    } ,
+    {
+      "image":"https://image.freepik.com/free-photo/attractive-laughing-guy-having-fun-smiling-happy_176420-18839.jpg",
+      "name":"Raul",
+      "phone":"0992664505",
+      "email":"practica5@hotmail.com"
+    } ,
+    {
+      "image":"https://image.freepik.com/free-photo/pensive-male-customer-looking-away_74855-3601.jpg",
+      "name":"Oscar",
+      "phone":"099266457806",
+      "email":"practica6@hotmail.com"
+    } ,
+    {
+      "image":"https://image.freepik.com/free-photo/handsome-young-african-american-with-khaki-tshirt_176420-32047.jpg",
+      "name":"David",
+      "phone":"0992664507",
+      "email":"practica7@hotmail.com"
+    } ,
+    {
+      "image":"https://image.freepik.com/free-photo/attractive-mixed-race-male-with-positive-smile-shows-white-teeth-keeps-hands-stomach-being-high-spirit-wears-white-shirt-rejoices-positive-moments-life-people-emotions-concept_273609-15527.jpg",
+      "name":"Bryan",
+      "phone":"0992664508",
+      "email":"practica8@hotmail.com"
+    } ,
+    {
+      "image":"https://image.freepik.com/free-photo/confident-young-man_1098-20868.jpg",
+      "name":"Rodolfo",
+      "phone":"0992664509",
+      "email":"practica9@hotmail.com"
+    } ,
+    {
+      "image":"https://image.freepik.com/free-photo/handsome-cheerful-male-student-pointing-up-down-banners_176420-18850.jpg",
+      "name":"Saif",
+      "phone":"0992664510",
+      "email":"practica10@hotmail.com"
+    } ,
+    {
+      "image":"https://image.freepik.com/free-photo/cheerful-curly-business-girl-wearing-glasses_176420-206.jpg",
+      "name":"Saima",
+      "phone":"0992664511",
+      "email":"practica11@hotmail.com"
+    } ,
+    {
+      "image":"https://image.freepik.com/free-photo/confident-smiling-girl-young-professional-looking-upbeat_176420-25850.jpg",
+      "name":"Rebeca",
+      "phone":"0992664512",
+      "email":"practica12@hotmail.com"
+    } ,
+    {
+      "image":"https://image.freepik.com/free-photo/front-view-female-office-worker-black-strict-jacket-posing-with-thinking-expression-pink-wall_140725-58763.jpg",
+      "name":"Julia",
+      "phone":"0992664513",
+      "email":"practica13@hotmail.com"
+    } ,
+    {
+      "image":"https://image.freepik.com/free-photo/portrait-cheerful-attractive-young-woman-longsleeve-standing-with-arms-crossed-smiling_295783-39.jpg",
+      "name":"Hanna",
+      "phone":"0992664514",
+      "email":"practica14@hotmail.com"
+    } ,
+    {
+      "image":"https://image.freepik.com/free-photo/photo-positive-european-female-model-makes-okay-gesture-agrees-with-nice-idea_273609-25629.jpg",
+      "name":"Melanie",
+      "phone":"0992664515",
+      "email":"practica15@hotmail.com"
+    } ,
+    {
+      "image":"https://image.freepik.com/free-photo/smiling-cheerful-dark-skinned-girl-points-herself-shows-mockup-space-white-t-shirt-happy-being-picked-models-against-yellow-wall-carefree-delighted-young-afro-woman-asks-who-me_273609-27741.jpg",
+      "name":"Julia",
+      "phone":"0992664516",
+      "email":"practica16@hotmail.com"
+    } ,
+    {
+      "image":"https://image.freepik.com/free-photo/cheerful-dark-skinned-woman-has-friendly-smile-dressed-flower-print-blouse-pointing-copyspace_273609-15991.jpg",
+      "name":"Emma",
+      "phone":"0992664517",
+      "email":"practica17@hotmail.com"
+    } ,
+    {
+      "image":"https://image.freepik.com/free-photo/indoor-shot-beautiful-happy-african-american-woman-smiling-cheerfully-keeping-her-arms-folded-relaxing-indoors-after-morning-lectures-university_273609-1270.jpg",
+      "name":"Paola",
+      "phone":"0992664518",
+      "email":"practica18@hotmail.com"
+    } ,
+    {
+      "image":"https://image.freepik.com/free-photo/portrait-excited-young-girl-holding-mobile-phone_171337-1648.jpg",
+      "name":"Carolina",
+      "phone":"0992664519",
+      "email":"practica19@hotmail.com"
+    },
+    {
+      "image":"https://image.freepik.com/free-photo/photo-joyful-african-american-female-with-positive-smile-crisp-hair-points-with-index-fingers-has-glad-expression-poses-against-yellow-wall-happy-dark-skinned-woman-indoor_273609-15610.jpg",
+      "name":"Andrea",
+      "phone":"0992664520",
+      "email":"practica20@hotmail.com"
+    }
+  ]
